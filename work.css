@@ -1,0 +1,70 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.first{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(158, 11, 11);
+    padding: 8px;
+
+}
+nav a{
+    margin-left: 15px;
+    text-decoration: none;
+    font-weight: 700;
+    text-align: justify;
+    color: rgb(255, 255, 255);
+}
+.Contract a{
+   color: aliceblue;
+    text-decoration: none;
+    background-color: rgb(5, 78, 124);
+    padding: 15px;
+    border-radius: 5px;
+
+}
+.fa-square-facebook{
+    font-size: 30px;
+    color: dimgray;
+}
+.fa-facebook-messenger{
+    font-size: 30px;
+    color: dimgray;
+}
+.fa-square-whatsapp{
+    font-size: 30px;
+    color: dimgray;
+}
+.fa-cart-shopping{
+    font-size: 20px;
+    color: black;
+}
+.Contract a:hover{
+    color: black;
+
+}
+.dec{
+    display: flex;
+}
+.dec h1{
+    color: rgb(255, 255, 255);
+    background-color: black;
+    text-align: center;
+    border-radius: 0%;
+}
+.dec p{
+    color: rgb(0, 0, 0);
+    background-color: rgb(158, 11, 11);
+    border-radius: auto;
+    text-align: justify;
+    font-size: ;
+    padding: 20px;
+}
+h2{
+    text-align: center;
+    background-color: rgb(46, 165, 229);
+}
+
+
